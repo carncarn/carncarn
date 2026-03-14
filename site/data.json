@@ -1898,6 +1898,33 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17709566819",
       "year": 2026
+    },
+    {
+      "date": "2026-03-13",
+      "hour": 14,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17711020725",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-13",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17712116082",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-13",
+      "hour": 17,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17713085933",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2930,6 +2957,15 @@
           "distance": 36670.8,
           "elevation_gain": 127.0,
           "moving_time": 6068.0
+        },
+        "2026-03-13": {
+          "activity_ids": [
+            "17712116082"
+          ],
+          "count": 1,
+          "distance": 17694.6,
+          "elevation_gain": 46.0,
+          "moving_time": 2441.0
         }
       },
       "Run": {
@@ -3514,6 +3550,16 @@
           "distance": 539.4,
           "elevation_gain": 0.0,
           "moving_time": 1139.0
+        },
+        "2026-03-13": {
+          "activity_ids": [
+            "17711020725",
+            "17713085933"
+          ],
+          "count": 2,
+          "distance": 6023.799999999999,
+          "elevation_gain": 32.0,
+          "moving_time": 4871.0
         }
       },
       "WeightTraining": {
@@ -3601,7 +3647,7 @@
       }
     }
   },
-  "generated_at": "2026-03-13T18:40:03.515063+00:00",
+  "generated_at": "2026-03-14T01:53:28.799462+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/178920801",
   "repo": "carncarn/carncarn",
