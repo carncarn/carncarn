@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T19:03:52.670243+00:00",
+  "generated_at": "2026-03-27T02:09:48.370280+00:00",
   "years": {
     "2025": {
       "EBikeRide": {
@@ -1622,6 +1622,15 @@
           "distance": 8939.0,
           "elevation_gain": 23.0,
           "moving_time": 2751.0
+        },
+        "2026-03-26": {
+          "activity_ids": [
+            "17871376802"
+          ],
+          "count": 1,
+          "distance": 8049.7,
+          "elevation_gain": 17.0,
+          "moving_time": 2552.0
         }
       },
       "Walk": {
