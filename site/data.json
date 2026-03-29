@@ -2141,6 +2141,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17893801095",
       "year": 2026
+    },
+    {
+      "date": "2026-03-29",
+      "hour": 7,
+      "name": "THEY DONT KNOW ME SON",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17902443605",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3792,6 +3801,15 @@
           "distance": 6596.0,
           "elevation_gain": 24.0,
           "moving_time": 2348.0
+        },
+        "2026-03-29": {
+          "activity_ids": [
+            "17902443605"
+          ],
+          "count": 1,
+          "distance": 24460.0,
+          "elevation_gain": 67.0,
+          "moving_time": 8465.0
         }
       },
       "Walk": {
@@ -4071,7 +4089,7 @@
       }
     }
   },
-  "generated_at": "2026-03-29T12:53:06.501145+00:00",
+  "generated_at": "2026-03-29T18:40:29.994209+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/178920801",
   "repo": "carncarn/carncarn",

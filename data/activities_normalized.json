@@ -3092,5 +3092,18 @@
     "start_date_local": "2026-03-28T17:13:37Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 24460.0,
+    "elevation_gain": 67.0,
+    "id": "17902443605",
+    "moving_time": 8465.0,
+    "name": "THEY DONT KNOW ME SON",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-29T07:56:47Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
