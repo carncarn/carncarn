@@ -3287,5 +3287,18 @@
     "start_date_local": "2026-04-06T11:15:24Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-06",
+    "distance": 6437.4,
+    "elevation_gain": 0.0,
+    "id": "18005684528",
+    "moving_time": 2174.0,
+    "name": "Tready",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-06T17:45:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
