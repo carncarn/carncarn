@@ -2357,6 +2357,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18073534091",
       "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 7,
+      "name": "Morning Half",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18079760481",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4143,6 +4152,15 @@
           "distance": 10369.5,
           "elevation_gain": 49.0,
           "moving_time": 3519.0
+        },
+        "2026-04-12": {
+          "activity_ids": [
+            "18079760481"
+          ],
+          "count": 1,
+          "distance": 21182.9,
+          "elevation_gain": 43.0,
+          "moving_time": 7091.0
         }
       },
       "Walk": {
@@ -4503,7 +4521,7 @@
       }
     }
   },
-  "generated_at": "2026-04-12T12:58:03.372299+00:00",
+  "generated_at": "2026-04-12T18:44:34.865962+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/178920801",
   "repo": "carncarn/carncarn",

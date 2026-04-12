@@ -3404,5 +3404,18 @@
     "start_date_local": "2026-04-11T21:10:00Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 21182.9,
+    "elevation_gain": 43.0,
+    "id": "18079760481",
+    "moving_time": 7091.0,
+    "name": "Morning Half",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-12T07:12:50Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
