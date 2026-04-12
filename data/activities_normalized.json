@@ -3391,5 +3391,18 @@
     "start_date_local": "2026-04-10T11:16:49Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 4828.0,
+    "elevation_gain": 0.0,
+    "id": "18073534091",
+    "moving_time": 6300.0,
+    "name": "Night Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-11T21:10:00Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
