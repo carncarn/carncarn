@@ -3456,5 +3456,18 @@
     "start_date_local": "2026-04-13T15:46:49Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 9903.0,
+    "elevation_gain": 8.0,
+    "id": "18111182132",
+    "moving_time": 2955.0,
+    "name": "Hot Intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-14T17:18:10Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
