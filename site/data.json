@@ -2402,6 +2402,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18111182132",
       "year": 2026
+    },
+    {
+      "date": "2026-04-15",
+      "hour": 11,
+      "name": "Lunch Elliptical",
+      "subtype": "Elliptical",
+      "type": "Elliptical",
+      "url": "https://www.strava.com/activities/18119551009",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-15",
+      "hour": 11,
+      "name": "Pull",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18120412056",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3522,6 +3540,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 439.0
+        },
+        "2026-04-15": {
+          "activity_ids": [
+            "18119551009"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 492.0
         }
       },
       "Ride": {
@@ -4589,11 +4616,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3805.0
+        },
+        "2026-04-15": {
+          "activity_ids": [
+            "18120412056"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3947.0
         }
       }
     }
   },
-  "generated_at": "2026-04-15T13:21:37.361890+00:00",
+  "generated_at": "2026-04-15T19:14:59.573477+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/178920801",
   "repo": "carncarn/carncarn",
