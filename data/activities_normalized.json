@@ -3495,5 +3495,18 @@
     "start_date_local": "2026-04-15T11:12:46Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 10118.5,
+    "elevation_gain": 16.0,
+    "id": "18124830040",
+    "moving_time": 3693.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-15T17:22:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
