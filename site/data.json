@@ -2456,6 +2456,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18146834720",
       "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 15,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18163576424",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4488,6 +4497,15 @@
           "distance": 4828.0,
           "elevation_gain": 0.0,
           "moving_time": 6300.0
+        },
+        "2026-04-18": {
+          "activity_ids": [
+            "18163576424"
+          ],
+          "count": 1,
+          "distance": 1975.1,
+          "elevation_gain": 6.0,
+          "moving_time": 2236.0
         }
       },
       "WeightTraining": {
@@ -4701,7 +4719,7 @@
       }
     }
   },
-  "generated_at": "2026-04-18T18:47:50.165192+00:00",
+  "generated_at": "2026-04-19T02:31:21.751244+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/178920801",
   "repo": "carncarn/carncarn",
