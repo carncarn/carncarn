@@ -2465,6 +2465,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18163576424",
       "year": 2026
+    },
+    {
+      "date": "2026-04-19",
+      "hour": 7,
+      "name": "Long trail run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18172903516",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4323,6 +4332,15 @@
           "distance": 9665.2,
           "elevation_gain": 0.0,
           "moving_time": 3075.0
+        },
+        "2026-04-19": {
+          "activity_ids": [
+            "18172903516"
+          ],
+          "count": 1,
+          "distance": 22569.8,
+          "elevation_gain": 29.0,
+          "moving_time": 8086.0
         }
       },
       "Walk": {
@@ -4719,7 +4737,7 @@
       }
     }
   },
-  "generated_at": "2026-04-19T12:57:56.980915+00:00",
+  "generated_at": "2026-04-19T18:47:50.193683+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/178920801",
   "repo": "carncarn/carncarn",

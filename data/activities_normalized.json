@@ -3560,5 +3560,18 @@
     "start_date_local": "2026-04-18T15:25:01Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 22569.8,
+    "elevation_gain": 29.0,
+    "id": "18172903516",
+    "moving_time": 8086.0,
+    "name": "Long trail run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-19T07:23:59Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
