@@ -2492,6 +2492,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18185859297",
       "year": 2026
+    },
+    {
+      "date": "2026-04-20",
+      "hour": 17,
+      "name": "Easy 5",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18190126763",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4368,6 +4377,15 @@
           "distance": 22569.8,
           "elevation_gain": 29.0,
           "moving_time": 8086.0
+        },
+        "2026-04-20": {
+          "activity_ids": [
+            "18190126763"
+          ],
+          "count": 1,
+          "distance": 8204.9,
+          "elevation_gain": 11.0,
+          "moving_time": 2705.0
         }
       },
       "Walk": {
@@ -4773,7 +4791,7 @@
       }
     }
   },
-  "generated_at": "2026-04-20T19:03:12.481857+00:00",
+  "generated_at": "2026-04-21T02:27:46.529151+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/178920801",
   "repo": "carncarn/carncarn",
