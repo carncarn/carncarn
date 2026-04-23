@@ -3651,5 +3651,18 @@
     "start_date_local": "2026-04-22T11:17:13Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 9870.4,
+    "elevation_gain": 33.2,
+    "id": "18219279860",
+    "moving_time": 3292.0,
+    "name": "Sunset 6",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-22T18:18:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
