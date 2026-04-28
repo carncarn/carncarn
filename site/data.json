@@ -2600,6 +2600,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18280419247",
       "year": 2026
+    },
+    {
+      "date": "2026-04-27",
+      "hour": 17,
+      "name": "Easy run fast finish",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18284454954",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4548,6 +4557,15 @@
           "distance": 25871.8,
           "elevation_gain": 49.0,
           "moving_time": 8368.0
+        },
+        "2026-04-27": {
+          "activity_ids": [
+            "18284454954"
+          ],
+          "count": 1,
+          "distance": 6757.3,
+          "elevation_gain": 6.0,
+          "moving_time": 2183.0
         }
       },
       "Walk": {
@@ -4989,7 +5007,7 @@
       }
     }
   },
-  "generated_at": "2026-04-27T19:17:55.332774+00:00",
+  "generated_at": "2026-04-28T02:43:41.000864+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/178920801",
   "repo": "carncarn/carncarn",

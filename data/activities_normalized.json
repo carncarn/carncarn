@@ -3755,5 +3755,18 @@
     "start_date_local": "2026-04-27T11:12:53Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 6757.3,
+    "elevation_gain": 6.0,
+    "id": "18284454954",
+    "moving_time": 2183.0,
+    "name": "Easy run fast finish",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-27T17:16:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
