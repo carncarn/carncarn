@@ -3768,5 +3768,18 @@
     "start_date_local": "2026-04-27T17:16:35Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 6630.0,
+    "elevation_gain": 16.4,
+    "id": "18298672519",
+    "moving_time": 2181.0,
+    "name": "Actual EZ 4",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-28T17:09:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
