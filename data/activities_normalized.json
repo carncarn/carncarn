@@ -3807,5 +3807,18 @@
     "start_date_local": "2026-04-29T11:17:09Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 6437.4,
+    "elevation_gain": 0.0,
+    "id": "18311946056",
+    "moving_time": 2208.0,
+    "name": "Easy Treadmill",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-29T17:10:36Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
