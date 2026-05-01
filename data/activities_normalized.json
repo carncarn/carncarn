@@ -3833,5 +3833,31 @@
     "start_date_local": "2026-04-30T19:26:56Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18334308540",
+    "moving_time": 428.0,
+    "name": "Lunch Elliptical",
+    "raw_activity_type": "Elliptical",
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-05-01T11:02:46Z",
+    "type": "Elliptical",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18335474842",
+    "moving_time": 3768.0,
+    "name": "Leg day",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-01T11:12:23Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
