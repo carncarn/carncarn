@@ -2726,6 +2726,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18378598323",
       "year": 2026
+    },
+    {
+      "date": "2026-05-05",
+      "hour": 18,
+      "name": "Z2 run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18392344777",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4755,6 +4764,15 @@
           "distance": 16133.5,
           "elevation_gain": 31.0,
           "moving_time": 5237.0
+        },
+        "2026-05-05": {
+          "activity_ids": [
+            "18392344777"
+          ],
+          "count": 1,
+          "distance": 8642.9,
+          "elevation_gain": 7.0,
+          "moving_time": 2629.0
         }
       },
       "Walk": {
@@ -5241,7 +5259,7 @@
       }
     }
   },
-  "generated_at": "2026-05-05T19:16:39.378458+00:00",
+  "generated_at": "2026-05-06T02:39:34.218338+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/178920801",
   "repo": "carncarn/carncarn",
