@@ -2753,6 +2753,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18400747989",
       "year": 2026
+    },
+    {
+      "date": "2026-05-06",
+      "hour": 15,
+      "name": "Afternoon Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18404073878",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-06",
+      "hour": 18,
+      "name": "Treadmill",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18405747782",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4794,12 +4812,24 @@
         },
         "2026-05-06": {
           "activity_ids": [
-            "18400273985"
+            "18400273985",
+            "18405747782"
+          ],
+          "count": 2,
+          "distance": 10653.9,
+          "elevation_gain": 0.0,
+          "moving_time": 3245.0
+        }
+      },
+      "Swim": {
+        "2026-05-06": {
+          "activity_ids": [
+            "18404073878"
           ],
           "count": 1,
-          "distance": 1802.5,
+          "distance": 151.3,
           "elevation_gain": 0.0,
-          "moving_time": 388.0
+          "moving_time": 328.0
         }
       },
       "Walk": {
@@ -5295,7 +5325,7 @@
       }
     }
   },
-  "generated_at": "2026-05-06T19:44:02.483304+00:00",
+  "generated_at": "2026-05-07T02:41:26.931933+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/178920801",
   "repo": "carncarn/carncarn",
