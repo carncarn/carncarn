@@ -2856,7 +2856,7 @@
     {
       "date": "2026-05-14",
       "hour": 19,
-      "name": "Evening Run",
+      "name": "Intervals",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18510892376",
@@ -5505,7 +5505,7 @@
       }
     }
   },
-  "generated_at": "2026-05-15T03:01:47.317411+00:00",
+  "generated_at": "2026-05-15T08:46:52.239429+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/178920801",
   "repo": "carncarn/carncarn",
