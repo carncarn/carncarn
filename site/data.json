@@ -2969,6 +2969,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18628094490",
       "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 10,
+      "name": "Treadmill Long Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18637733181",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5125,6 +5134,15 @@
           "distance": 10308.0,
           "elevation_gain": 7.0,
           "moving_time": 3439.0
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "18637733181"
+          ],
+          "count": 1,
+          "distance": 25910.4,
+          "elevation_gain": 0.0,
+          "moving_time": 8193.0
         }
       },
       "Swim": {
@@ -5721,7 +5739,7 @@
       }
     }
   },
-  "generated_at": "2026-05-24T13:21:54.396028+00:00",
+  "generated_at": "2026-05-24T19:14:38.394379+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/178920801",
   "repo": "carncarn/carncarn",

@@ -4288,5 +4288,18 @@
     "start_date_local": "2026-05-23T19:28:59Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 25910.4,
+    "elevation_gain": 0.0,
+    "id": "18637733181",
+    "moving_time": 8193.0,
+    "name": "Treadmill Long Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-24T10:06:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
