@@ -2960,6 +2960,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/18615412468",
       "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 19,
+      "name": "Thrifting",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18628094490",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5373,6 +5382,15 @@
           "distance": 5632.7,
           "elevation_gain": 0.0,
           "moving_time": 6300.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18628094490"
+          ],
+          "count": 1,
+          "distance": 3379.6,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
         }
       },
       "WeightTraining": {
@@ -5703,7 +5721,7 @@
       }
     }
   },
-  "generated_at": "2026-05-23T19:06:54.580061+00:00",
+  "generated_at": "2026-05-24T03:25:03.815538+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/178920801",
   "repo": "carncarn/carncarn",

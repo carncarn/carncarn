@@ -4275,5 +4275,18 @@
     "start_date_local": "2026-05-22T21:43:46Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 3379.6,
+    "elevation_gain": 0.0,
+    "id": "18628094490",
+    "moving_time": 3600.0,
+    "name": "Thrifting",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-23T19:28:59Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
