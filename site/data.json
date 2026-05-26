@@ -2978,6 +2978,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18637733181",
       "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 22,
+      "name": "Night Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18656019812",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5163,6 +5172,15 @@
           "distance": 266.6,
           "elevation_gain": 0.0,
           "moving_time": 169.0
+        },
+        "2026-05-25": {
+          "activity_ids": [
+            "18656019812"
+          ],
+          "count": 1,
+          "distance": 1013.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1560.0
         }
       },
       "Walk": {
@@ -5739,7 +5757,7 @@
       }
     }
   },
-  "generated_at": "2026-05-26T02:56:03.984202+00:00",
+  "generated_at": "2026-05-26T09:52:31.790717+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/178920801",
   "repo": "carncarn/carncarn",
