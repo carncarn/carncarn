@@ -4314,5 +4314,18 @@
     "start_date_local": "2026-05-25T22:36:36Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 10299.8,
+    "elevation_gain": 0.0,
+    "id": "18669526794",
+    "moving_time": 15378.0,
+    "name": "Epic Universe",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-26T18:00:44Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
