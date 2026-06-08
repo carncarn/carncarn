@@ -3149,6 +3149,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18830987746",
       "year": 2026
+    },
+    {
+      "date": "2026-06-08",
+      "hour": 11,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18837822596",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4433,6 +4442,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 505.0
+        },
+        "2026-06-08": {
+          "activity_ids": [
+            "18837822596"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 500.0
         }
       },
       "Run": {
@@ -6081,7 +6099,7 @@
       }
     }
   },
-  "generated_at": "2026-06-08T10:49:36.670381+00:00",
+  "generated_at": "2026-06-08T15:46:15.202527+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/178920801",
   "repo": "carncarn/carncarn",
