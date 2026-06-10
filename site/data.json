@@ -3176,6 +3176,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18859975001",
       "year": 2026
+    },
+    {
+      "date": "2026-06-10",
+      "hour": 11,
+      "name": "Lunch Elliptical",
+      "subtype": "Elliptical",
+      "type": "Elliptical",
+      "url": "https://www.strava.com/activities/18866020373",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4377,6 +4386,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 508.0
+        },
+        "2026-06-10": {
+          "activity_ids": [
+            "18866020373"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 595.0
         }
       },
       "Ride": {
@@ -6135,7 +6153,7 @@
       }
     }
   },
-  "generated_at": "2026-06-10T09:55:40.693032+00:00",
+  "generated_at": "2026-06-10T15:29:28.898463+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/178920801",
   "repo": "carncarn/carncarn",
