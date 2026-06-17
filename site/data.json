@@ -3266,6 +3266,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18951381867",
       "year": 2026
+    },
+    {
+      "date": "2026-06-17",
+      "hour": 11,
+      "name": "Lunch Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18959928670",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6311,11 +6320,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4751.0
+        },
+        "2026-06-17": {
+          "activity_ids": [
+            "18959928670"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2337.0
         }
       }
     }
   },
-  "generated_at": "2026-06-17T15:22:05.059320+00:00",
+  "generated_at": "2026-06-17T20:09:58.693747+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/178920801",
   "repo": "carncarn/carncarn",
