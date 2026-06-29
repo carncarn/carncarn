@@ -4912,5 +4912,18 @@
     "start_date_local": "2026-06-28T18:38:45Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19111508963",
+    "moving_time": 462.0,
+    "name": "Lunch Elliptical",
+    "raw_activity_type": "Elliptical",
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-06-29T11:04:31Z",
+    "type": "Elliptical",
+    "year": 2026
   }
 ]
