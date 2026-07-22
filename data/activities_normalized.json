@@ -5250,5 +5250,18 @@
     "start_date_local": "2026-07-20T11:14:39Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 12939.1,
+    "elevation_gain": 0.0,
+    "id": "19411270924",
+    "moving_time": 4194.0,
+    "name": "Treadmill Intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-21T19:37:31Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
