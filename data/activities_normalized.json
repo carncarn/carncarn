@@ -5354,5 +5354,18 @@
     "start_date_local": "2026-07-24T11:17:21Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 22555.0,
+    "elevation_gain": 23.0,
+    "id": "19479881054",
+    "moving_time": 8611.0,
+    "name": "Beach Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-26T16:52:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
