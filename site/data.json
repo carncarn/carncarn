@@ -3725,6 +3725,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19536499337",
       "year": 2026
+    },
+    {
+      "date": "2026-07-31",
+      "hour": 13,
+      "name": "Afternoon Row",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/19547998387",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5117,6 +5126,17 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 500.0
+        }
+      },
+      "Rowing": {
+        "2026-07-31": {
+          "activity_ids": [
+            "19547998387"
+          ],
+          "count": 1,
+          "distance": 1501.8,
+          "elevation_gain": 0.0,
+          "moving_time": 1285.0
         }
       },
       "Run": {
@@ -7233,7 +7253,7 @@
       }
     }
   },
-  "generated_at": "2026-07-31T19:21:02.169915+00:00",
+  "generated_at": "2026-08-01T02:34:24.344799+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/178920801",
   "repo": "carncarn/carncarn",
@@ -7251,6 +7271,10 @@
     "Ride": {
       "accent": "#05ffa1",
       "label": "Ride"
+    },
+    "Rowing": {
+      "accent": "#fee440",
+      "label": "Rowing"
     },
     "Run": {
       "accent": "#01cdfe",
@@ -7273,6 +7297,7 @@
     "EBikeRide",
     "Elliptical",
     "Ride",
+    "Rowing",
     "Run",
     "Swim",
     "Walk",
