@@ -4130,6 +4130,33 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20103706686",
       "year": 2026
+    },
+    {
+      "date": "2026-09-11",
+      "hour": 6,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20129712236",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-11",
+      "hour": 9,
+      "name": "Morning Elliptical",
+      "subtype": "Elliptical",
+      "type": "Elliptical",
+      "url": "https://www.strava.com/activities/20130618400",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-11",
+      "hour": 10,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20131174150",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5529,6 +5556,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 533.0
+        },
+        "2026-09-11": {
+          "activity_ids": [
+            "20130618400"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 455.0
         }
       },
       "Ride": {
@@ -7062,6 +7098,15 @@
           "distance": 19392.6,
           "elevation_gain": 0.0,
           "moving_time": 6558.0
+        },
+        "2026-09-11": {
+          "activity_ids": [
+            "20129712236"
+          ],
+          "count": 1,
+          "distance": 9672.5,
+          "elevation_gain": 18.0,
+          "moving_time": 3171.0
         }
       },
       "Swim": {
@@ -8041,11 +8086,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3674.0
+        },
+        "2026-09-11": {
+          "activity_ids": [
+            "20131174150"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2769.0
         }
       }
     }
   },
-  "generated_at": "2026-09-11T10:35:55.693909+00:00",
+  "generated_at": "2026-09-11T15:51:16.575166+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/178920801",
   "repo": "carncarn/carncarn",
