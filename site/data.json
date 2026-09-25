@@ -4292,6 +4292,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20311325939",
       "year": 2026
+    },
+    {
+      "date": "2026-09-24",
+      "hour": 17,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20316885692",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-24",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20318232403",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5860,12 +5878,13 @@
         },
         "2026-09-24": {
           "activity_ids": [
-            "20311325939"
+            "20311325939",
+            "20318232403"
           ],
-          "count": 1,
-          "distance": 18608.5,
-          "elevation_gain": 45.0,
-          "moving_time": 3265.0
+          "count": 2,
+          "distance": 52798.2,
+          "elevation_gain": 91.0,
+          "moving_time": 8291.0
         }
       },
       "Rowing": {
@@ -7334,6 +7353,15 @@
           "distance": 9666.1,
           "elevation_gain": 4.0,
           "moving_time": 3249.0
+        },
+        "2026-09-24": {
+          "activity_ids": [
+            "20316885692"
+          ],
+          "count": 1,
+          "distance": 9674.3,
+          "elevation_gain": 11.0,
+          "moving_time": 3099.0
         }
       },
       "Swim": {
@@ -8353,7 +8381,7 @@
       }
     }
   },
-  "generated_at": "2026-09-24T21:08:06.527846+00:00",
+  "generated_at": "2026-09-25T03:23:56.509258+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/178920801",
   "repo": "carncarn/carncarn",
