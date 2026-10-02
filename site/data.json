@@ -4364,6 +4364,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20386453366",
       "year": 2026
+    },
+    {
+      "date": "2026-10-02",
+      "hour": 9,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20420150889",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-02",
+      "hour": 9,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20420705338",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7461,6 +7479,15 @@
           "distance": 11614.0,
           "elevation_gain": 5.0,
           "moving_time": 4010.0
+        },
+        "2026-10-02": {
+          "activity_ids": [
+            "20420150889"
+          ],
+          "count": 1,
+          "distance": 1363.8,
+          "elevation_gain": 0.0,
+          "moving_time": 484.0
         }
       },
       "Swim": {
@@ -8485,11 +8512,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2793.0
+        },
+        "2026-10-02": {
+          "activity_ids": [
+            "20420705338"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2821.0
         }
       }
     }
   },
-  "generated_at": "2026-10-02T11:52:16.109055+00:00",
+  "generated_at": "2026-10-02T17:26:53.504981+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/178920801",
   "repo": "carncarn/carncarn",
