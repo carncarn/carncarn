@@ -4391,6 +4391,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20426398230",
       "year": 2026
+    },
+    {
+      "date": "2026-10-04",
+      "hour": 17,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20454437826",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7498,6 +7507,15 @@
           "distance": 6871.3,
           "elevation_gain": 2.0,
           "moving_time": 2281.0
+        },
+        "2026-10-04": {
+          "activity_ids": [
+            "20454437826"
+          ],
+          "count": 1,
+          "distance": 17705.8,
+          "elevation_gain": 35.0,
+          "moving_time": 6060.0
         }
       },
       "Swim": {
@@ -8535,7 +8553,7 @@
       }
     }
   },
-  "generated_at": "2026-10-04T20:51:46.417354+00:00",
+  "generated_at": "2026-10-05T04:01:02.107827+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/178920801",
   "repo": "carncarn/carncarn",
