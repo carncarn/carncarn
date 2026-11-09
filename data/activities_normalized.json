@@ -6771,5 +6771,18 @@
     "start_date_local": "2026-11-06T20:39:08Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20920839097",
+    "moving_time": 593.0,
+    "name": "Morning Elliptical",
+    "raw_activity_type": "Elliptical",
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-11-09T09:33:06Z",
+    "type": "Elliptical",
+    "year": 2026
   }
 ]
