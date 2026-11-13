@@ -4742,6 +4742,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20961059945",
       "year": 2026
+    },
+    {
+      "date": "2026-11-12",
+      "hour": 19,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20968539667",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8112,6 +8121,15 @@
           "distance": 6456.7,
           "elevation_gain": 3.0,
           "moving_time": 2192.0
+        },
+        "2026-11-12": {
+          "activity_ids": [
+            "20968539667"
+          ],
+          "count": 1,
+          "distance": 7847.9,
+          "elevation_gain": 9.0,
+          "moving_time": 2648.0
         }
       },
       "Swim": {
@@ -9221,7 +9239,7 @@
       }
     }
   },
-  "generated_at": "2026-11-13T05:00:53.656866+00:00",
+  "generated_at": "2026-11-13T13:54:38.030209+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/178920801",
   "repo": "carncarn/carncarn",
